@@ -50,5 +50,5 @@ Open the index.html file location in your web browser. The frontend form will ap
 
 ### 6. Test the Login System:
 * Enter valid credentials and click the "Login" button to test successful login.
-* Enter invalid credentials to test the error handling, and you should see appropriate error messages displayed on the   
+* Enter invalid details to test the error handling, and you should see appropriate error messages displayed on the   
   frontend.
