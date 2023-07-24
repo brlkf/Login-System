@@ -1,7 +1,7 @@
 # Login-System
 This project demonstrates a simple login system built using FastAPI as the backend server and a basic HTML/JavaScript frontend. The backend server uses SQLite as the database to store user login information.
 
-##How it Works
+## How it Works
 
 1. **Backend Server (FastAPI):**
 * The backend server is built using FastAPI, a modern web framework for building APIs with Python.
@@ -14,7 +14,7 @@ This project demonstrates a simple login system built using FastAPI as the backe
 * If the login is successful, the backend responds with a message "Login successful."
 * If the login fails due to incorrect details or a non-existing user, the backend responds with a custom error message.
 
-##How to Set Up and Run
+## How to Set Up and Run
 
 1. **Clone the Repository:**
 ```
