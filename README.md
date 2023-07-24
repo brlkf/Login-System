@@ -35,14 +35,14 @@ The 'users.db' file is provided. If you didn't have the 'users.db' file,  run th
 ```
 python create_db.py
 ```
-This script will create the users.db file and the users table with columns for id, username, and password.
+  This script will create the users.db file and the users table with columns for id, username, and password.
 
 
 4. **Run the Backend Server:**
 ```
 uvicorn main:app --reload
 ```
-This will launch the backend server, and it will be accessible at 'http://127.0.0.1:8000'. 
+  This will launch the backend server, and it will be accessible at 'http://127.0.0.1:8000'. 
 
 
 5. **Open the Frontend:**
